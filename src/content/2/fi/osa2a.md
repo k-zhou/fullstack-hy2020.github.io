@@ -700,7 +700,7 @@ const total =
   parts.reduce( (s, p) => someMagicHere )
 ```
 
-ei toimi, kannattaa taas kerran turvautua komentoon _console.log_, joka jälleen vaatii sen, että nuolifunktio muutetaan pidempään muotoonsa
+Jos ei toimi, kannattaa taas kerran turvautua komentoon _console.log_, joka jälleen vaatii sen, että nuolifunktio muutetaan pidempään muotoonsa
 
 ```js
 const total = parts.reduce( (s, p) => {
